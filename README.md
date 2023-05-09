@@ -2,16 +2,19 @@
 
 I'm Milagros Capriotti, a data science student with a strong background in statistics and a passion for artificial intelligence. Welcome to my GitHub profile!
 
-About me
+### About me
 📚 Currently studying data science, with a focus on statistics and AI.
+
 💻 Constantly learning and improving my programming skills.
+
 🤖 Interested in the intersection of data science and artificial intelligence.
 
-Skills
+### Skills
 Programming languages: Python, SQL.
 Data analysis and visualization: Pandas, Matplotlib, Seaborn, Looker Studio
 
-Courses
+### Courses
+
 Course 1: Python
 In this course, I learned the fundamentals of programming in Python, including data types, control structures, functions, and object-oriented programming. I also gained hands-on experience with Python libraries commonly used in data science, such as NumPy, Pandas, and Matplotlib.
 
@@ -29,6 +32,7 @@ In this course, I applied my knowledge of data science to a real-world project, 
 
 Contact me
 LinkedIn: https://www.linkedin.com/in/milagros-capriotti-28a5a4249/
+
 Email: milicapriotti29@gmail.com
 
 
