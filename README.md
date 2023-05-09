@@ -11,23 +11,29 @@ I'm Milagros Capriotti, a data science student with a strong background in stati
 
 ### Skills
 Programming languages: Python, SQL.
-Data analysis and visualization: Pandas, Matplotlib, Seaborn, Looker Studio
+
+Data analysis and visualization: Pandas, Matplotlib, Seaborn, Looker Studio.
 
 ### Courses
 
 Course 1: Python
+
 In this course, I learned the fundamentals of programming in Python, including data types, control structures, functions, and object-oriented programming. I also gained hands-on experience with Python libraries commonly used in data science, such as NumPy, Pandas, and Matplotlib.
 
 Course 2: Data Analysis
+
 In this course, I focused on using the Pandas library for data analysis and Matplotlib for data visualization. I learned how to load, manipulate, and analyze data using Pandas, and how to create informative and visually appealing plots using Matplotlib.
 
 Course 3: Web Scraping
+
 In this course, I learned how to extract data from websites using Python and the Beautiful Soup library. I also learned how to use regular expressions to parse text and how to automate web browsing using the Selenium library.
 
 Course 4: Fundamentals of Databases
+
 In this course, I learned the basics of databases, including data modeling, relational algebra, and SQL. I also gained hands-on experience with Looker Studio, a data analytics platform that enables users to explore and visualize data from various sources. 
 
 Course 5: Applied Data Science
+
 In this course, I applied my knowledge of data science to a real-world project, starting from problem formulation and data collection to data cleaning, analysis, and visualization. Project: https://lnkd.in/d9FyiwmT
 
 ### Contact me
