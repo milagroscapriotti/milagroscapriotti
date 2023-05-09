@@ -30,7 +30,8 @@ In this course, I learned the basics of databases, including data modeling, rela
 Course 5: Applied Data Science
 In this course, I applied my knowledge of data science to a real-world project, starting from problem formulation and data collection to data cleaning, analysis, and visualization. Project: https://lnkd.in/d9FyiwmT
 
-Contact me
+### Contact me
+
 LinkedIn: https://www.linkedin.com/in/milagros-capriotti-28a5a4249/
 
 Email: milicapriotti29@gmail.com
