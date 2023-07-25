@@ -16,7 +16,7 @@ Data analysis and visualization: Pandas, Matplotlib, Seaborn, Looker Studio, QLI
 
 Tools: Microsoft Access, Microsoft Excel, GIT, GitHub.
 
-###Experience
+### Experience
 
 I am thrilled to share my journey of working in the dynamic world of fashion, where I find myself contributing to the success of an apparel company as a data analyst. My role revolves around leveraging various tools, such as Python, Excel, Microsoft Access, Looker Studio, and Qlik, to analyze data and make informed decisions that drive the business forward. Additionally, I have the responsibility of overseeing production planning, ensuring a seamless and efficient workflow.
 
