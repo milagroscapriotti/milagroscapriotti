@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Milagros Capriotti, a data science student with a strong background in statistics and a passion for artificial intelligence. Welcome to my GitHub profile!
+I'm Milagros Capriotti, a data science student with a strong background in statistics and a passion for artificial intelligence. I work as a data analyst in the fashion industry. Welcome to my GitHub profile!
 
 ### About me
 📚 Currently studying data science, with a focus on statistics and AI.
